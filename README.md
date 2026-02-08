@@ -1,4 +1,4 @@
-# Practice_Data_Analytics_Project_C
+# Harv_Customer_Analysis
 A practice repository to learn GitHub basics for data analytics.
 
 # Project Overview
